@@ -5,3 +5,4 @@
 // git branch oriana--> te crea una nueva ramra
 
 // git checkout oriana --> enctro a la rama oriana
+// el barto estuvo aqui
