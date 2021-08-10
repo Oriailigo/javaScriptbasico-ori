@@ -34,6 +34,32 @@
 //test 04-nomber-function
 // const {index} = require('./bases/04-objetos');
 // index()
+
+
 // test 05-nomber-function
-const {index} = require('./bases/04-objetos');
+// const {index} = require('./bases/05-arrays');
+// index()
+
+// test 06-JSON
+// const {index} = require('./bases/06-json');
+// index()
+
+// test 07-condicionales
+// const {index} = require('./bases/07-condicionales');
+// index()
+
+// test 08-switch
+// const {index} = require('./bases/08-switch');
+// index()
+
+// test 09-for and foreatch
+// const {index} = require('./bases/09-forForeatch');
+// index()
+
+// test 10-map&reduce
+// const {index} = require('./bases/10-map_reduce');
+// index()
+
+// test 10-map&reduce
+const {index} = require('./bases/11-asincronismo');
 index()
