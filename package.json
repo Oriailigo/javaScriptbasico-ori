@@ -1,0 +1,26 @@
+{
+    "name": "javascriptbasico-ori",
+    "version": "1.0.0",
+    "description": "aprendiendo node js y express basico",
+    "main": "server.js",
+    "devstart": "nodemon ./index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node ./index.js",
+        "devstart": "nodemon ./index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Oriailigo/javaScriptbasico-ori.git"
+    },
+    "author": "Oriana Ailigo",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Oriailigo/javaScriptbasico-ori/issues"
+    },
+    "homepage": "https://github.com/Oriailigo/javaScriptbasico-ori#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.12"
+    }
+}
