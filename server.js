@@ -16,4 +16,17 @@ app.listen(3000, () => console.log("estoy escuchando por el puerto 3000")) //esc
 //nodemon de manera local
 //comando: npm i nodemon
 //para ejcutarlo:
-//comando: nodemon javaScriptbasico-ori
+//PRIMERO voy al package.json y agrego estas claves y valor:
+
+
+// "devstart": "nodemon ./server.js",
+// "scripts": {
+//     "test": "echo \"Error: no test specified\" && exit 1",
+//     "start": "node ./server.js",
+//     "devstart": "nodemon ./server.js"
+// },
+
+//SEGUNDO: en la terminal escribir:
+//npm run devstart
+
+//NOTA: volver a el video anterior para ver el map y reduce porque es importante
