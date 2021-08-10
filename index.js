@@ -32,5 +32,8 @@
 
 
 //test 04-nomber-function
+// const {index} = require('./bases/04-objetos');
+// index()
+// test 05-nomber-function
 const {index} = require('./bases/04-objetos');
 index()
