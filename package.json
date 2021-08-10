@@ -1,0 +1,25 @@
+{
+  "name": "javaScriptbasico-ori",
+  "version": "1.0.0",
+  "description": "Esto contiene los siguientes temas:\r 1) funciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js",
+    "devstart": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oriailigo/javaScriptbasico-ori.git"
+  },
+  "keywords": [],
+  "author": "sergio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oriailigo/javaScriptbasico-ori/issues"
+  },
+  "homepage": "https://github.com/Oriailigo/javaScriptbasico-ori#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
